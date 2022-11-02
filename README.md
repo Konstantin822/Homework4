@@ -1,4 +1,3 @@
-ДЗ 4. Успадкування в Java
-#UML
+# UML
 
 ![](./class-diagram.png)
